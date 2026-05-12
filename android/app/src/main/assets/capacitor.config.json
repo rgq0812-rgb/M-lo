@@ -1,0 +1,6 @@
+{
+	"appId": "com.selene.psy",
+	"appName": "Selene Psy",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

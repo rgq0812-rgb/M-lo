@@ -1,0 +1,6 @@
+{
+  "name": "L'Ami Psy",
+  "description": "Une plateforme intelligente pour discuter de psychologie, explorer vos émotions et obtenir un soutien empathique et éclairé.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
